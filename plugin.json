@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "recs-files",
+  "version": "1.0.0-beta",
+  "description": "Skills for working on a project whose records are the source of truth."
+}
